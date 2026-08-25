@@ -1,25 +1,55 @@
 ## Olá, sou o Bruno Figueiredo 👋
+# Olá, eu sou o Bruno Figueiredo 👋
 
-<p> 👨‍💻 Desenvolvedor Frontend apaixonado por criar experiências incríveis na web. </p> 
-<p> 📚 Cursando o 8º período de Sistemas de Informação no Campus São João Evangelista.</p> 
-<p> ✨ Apaixonado por tecnologia, design e usabilidade.</p>
+🎓 Estudante de **Sistemas de Informação**  
+☕ Desenvolvedor **Java em formação**  
+📍 Minas Gerais, Brasil
 
+Atualmente estou aprofundando meus conhecimentos em lógica de programação,
+programação orientada a objetos e desenvolvimento de sistemas com Java.
 
-<h1>🚀💻Tecnologias e Ferramentas</h1>
-<div style="display: inline_block"><br>
-  <img align="center" alt="BJF-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="BJF-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="BJF-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="BJF-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="BJF-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="BJF-Csharp" height="30" width="40" src="https://v5c2e8r4.stackpathcdn.com/wp-content/uploads/2014/09/mysql-logo.jpg">
-  <img align="center" alt="BJF-Csharp" height="30" width="40" src="https://www.svgrepo.com/show/452091/python.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/bruno_figueiredo98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/bruno-figueiredo98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <h2>Conheça um pouco mais sobre Bruno Figueiredo Acessando meu <a href="https://dev-portfoliobjf.pantheonsite.io/"><strong>Portfólio</strong></a></h2>
-</div>
+Busco minha primeira oportunidade na área de desenvolvimento de software,
+onde possa aplicar meus conhecimentos, aprender com projetos reais e evoluir
+como desenvolvedor Back-end.
+
+## 🚀 O que estou estudando
+
+- Java
+- Lógica de programação
+- Programação Orientada a Objetos
+- Tratamento de dados com arrays e coleções
+- Git e GitHub
+- Banco de dados e MySQL
+- Spring Boot — próximo passo
+
+## 💻 Projeto em desenvolvimento
+
+### Sistema de cadastro e controle de produtos
+
+Sistema desenvolvido em Java para praticar:
+
+- Cadastro de produtos
+- Controle de estoque
+- Validação de dados
+- Herança e polimorfismo
+- Organização do código em classes e métodos
+- Menus interativos pelo terminal
+
+O projeto está sendo desenvolvido progressivamente enquanto avanço nos
+estudos de Java.
+
+## 🛠️ Tecnologias e ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+## 📚 Próximos objetivos
+
+- Consolidar Programação Orientada a Objetos
+- Aprender persistência de dados com MySQL
+- Desenvolver APIs REST com Spring Boot
+- Criar projetos completos para o portfólio
+- Conquistar minha primeira oportunidade como desenvolvedor
