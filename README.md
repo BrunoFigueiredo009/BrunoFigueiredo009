@@ -46,6 +46,7 @@ estudos de Java.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+
 ## 📚 Próximos objetivos
 
 - Consolidar Programação Orientada a Objetos
@@ -53,3 +54,13 @@ estudos de Java.
 - Desenvolver APIs REST com Spring Boot
 - Criar projetos completos para o portfólio
 - Conquistar minha primeira oportunidade como desenvolvedor
+
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/bruno-figueiredo98/))
+
+
+
+
+
