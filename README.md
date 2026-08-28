@@ -1,5 +1,4 @@
 ## Olá, sou o Bruno Figueiredo 👋
-# Olá, eu sou o Bruno Figueiredo 👋
 
 🎓 Estudante de **Sistemas de Informação**  
 ☕ Desenvolvedor **Java em formação**  
